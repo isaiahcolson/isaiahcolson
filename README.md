@@ -1,4 +1,4 @@
-### Hi, I'm [Isaiah Colson](https://www.isaiahcolson.com)
+### Hi, I'm Isaiah Colson
 
 Here is a VSCode color theme I created called [**Kraken Theme**](https://github.com/isaiahcolson/kraken-color-theme), you can check that out on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=isaiahcolson.kraken-theme).
 
